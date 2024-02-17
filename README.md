@@ -3,7 +3,7 @@
 
 - I’m currently working on **A machine learning encyclopedia**
 
-- I’m currently learning **Express JS, AWS**
+- I’m currently learning **Express JS and AWS**
 
 - All of my projects are available at [https://dylanslibrary.com](https://dylanslibrary.com)
 
