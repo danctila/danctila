@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Dylan Anctil</h1>
 <h3 align="center">Always learning software developer</h3>
 
-- I’m currently working on **A machine learning encyclopedia**
+- I’m currently working on **A music theory alarm app**
 
-- I’m currently learning **Express JS and AWS**
+- I’m currently learning **Go and Swift**
 
 - All of my projects are available at [https://danctil.com](https://danctil.com)
 
